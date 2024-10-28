@@ -111,7 +111,7 @@
     "@react-native/typescript-config": "0.75.4",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
     "@types/lodash": "^4.17.10",
-    "@types/node": "^22.7.4",
+    "@types/node": "^22.8.2",
     "@types/react": "^18.2.6",
     "@types/react-native-global-props": "^1.1.6",
     "@types/react-native-indicators": "^0.16.6",
