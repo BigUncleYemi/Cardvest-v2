@@ -5932,7 +5932,7 @@ __metadata:
     prettier: ^3.3.3
     pretty-quick: ^4.0.0
     react: 18.3.1
-    react-i18next: ^15.0.2
+    react-i18next: ^15.1.1
     react-native: 0.75.4
     react-native-adjust: ^5.0.2
     react-native-adjust-oaid: ^5.0.2
@@ -14141,9 +14141,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-i18next@npm:^15.0.2":
-  version: 15.0.2
-  resolution: "react-i18next@npm:15.0.2"
+"react-i18next@npm:^15.1.1":
+  version: 15.1.1
+  resolution: "react-i18next@npm:15.1.1"
   dependencies:
     "@babel/runtime": ^7.25.0
     html-parse-stringify: ^3.0.1
@@ -14155,7 +14155,7 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: 2694433e44548ef116c1ed6d0a4a08194230ae36e2f02c9775565ad181f274291769c2ec308c168125111c67e84523a465f9cff66d775641cbf6a0f826f7ef44
+  checksum: 3f31b2a2cbd561e7cab76208eaf08069d71df5e59292350f9814c4cf0d752446270e3d6b820d224f43922e8467ec7f70585268797b316e16953f567b3d095fb2
   languageName: node
   linkType: hard
 
